@@ -9,22 +9,22 @@ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
     <language>en</language>
     <copyright>BNC</copyright>
     <pubDate>Wed, 23 Sep 2020 19:37:28 GMT</pubDate>
-    <managingEditor>yarblek@gmail.com</managingEditor>
+    <managingEditor>peter.melnikov@gmail.com (Peter)</managingEditor>
     <category domain="schema-tags:page-category/mortgage">Mortgage</category>
     <category domain="schema-tags:page-category/savings-and-investment">Savings &amp; investment</category>
     <category domain="schema-tags:page-category/investments">Investments</category>
     <googleplay:author>BNI</googleplay:author>
     <itunes:author>BNI</itunes:author>
     <itunes:owner>
-         <itunes:name>Philippe</itunes:name>
-         <itunes:email>yarblek@gmail.com (Philippe)</itunes:email>
+         <itunes:name>Peter</itunes:name>
+         <itunes:email>peter.melnikov@gmail.com (Peter)</itunes:email>
     </itunes:owner>
     <googleplay:category>Investments</googleplay:category>
     <itunes:category text="Business">
         <itunes:category text="Investing"/>
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
-    <googleplay:email>yarblek@gmail.com</googleplay:email>
+    <googleplay:email>peter.melnikov@gmail.com</googleplay:email>
     <googleplay:description>Talks about investments</googleplay:description>
     <itunes:summary>Talks about investments</itunes:summary>
     <googleplay:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_4.png" />
