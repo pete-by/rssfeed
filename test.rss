@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="https://raw.githack.com/pete-by/rssfeed/master/sample-podcast.rss" rel="self" type="application/rss+xml" />
+		<link>https://raw.githack.com/pete-by/rssfeed/master/sample-podcast.html</link>
+                <title>Investments</title>
+                <description>Talks about investments</description>
+                <language>en</language>
+                <copyright>BNC</copyright>
+                <pubDate>Wed, 23 Sep 2020 19:37:28 GMT</pubDate>
+                <managingEditor>peter.melnikov@gmail.com (Peter)</managingEditor>
+		<itunes:summary>Talks about investments</itunes:summary>
+		<image>
+			<url>http://static.libsyn.com/p/assets/7/1/f/3/71f3014e14ef2722/JREiTunesImage2.jpg</url>
+			<title>The Joe Rogan Experience</title>
+			<link><![CDATA[https://www.joerogan.com]]></link>
+		</image>
+		 <itunes:author>BNI</itunes:author>
+                <itunes:owner>
+			<itunes:name>Peter</itunes:name>
+			<itunes:email>peter.melnikov@gmail.com (Peter)</itunes:email>
+    		</itunes:owner>
+    		<itunes:category text="Business">
+			<itunes:category text="Investing"/>
+		</itunes:category>
+    		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://static.libsyn.com/p/assets/7/1/f/3/71f3014e14ef2722/JREiTunesImage2.jpg" />
+		<itunes:subtitle><![CDATA[Joe Rogan's Weekly Podcast]]></itunes:subtitle>
+		<itunes:type>episodic</itunes:type>
+		<item>
+		      <title>10 Advices to Solve Financial Problems</title>
+		      <googleplay:author>Julie Rocher</googleplay:author>
+		      <itunes:author>Julie Rocher</itunes:author>
+		      <googleplay:guid>https://www.nbinvestments.ca/content/bncd/en/accueil/podcasts/10-advices-to-solve-financial-problems.html</googleplay:guid>
+		      <googleplay:category>Savings &amp; investment,Investments</googleplay:category>
+		      <googleplay:description>10 Advices to Solve Financial Problems</googleplay:description>
+		      <itunes:summary>10 Advices to Solve Financial Problems</itunes:summary>
+		      <googleplay:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_2.png" />
+		      <itunes:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_2.png" />
+		      <description>10 Advices to Solve Financial Problems</description>
+		      <content:encoded>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+		&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</content:encoded>
+		      <enclosure url="https://www.bninvestissements.ca/content/dam/bni/podcasts/podcast-bni-fr-bref-episode-0002.mp3" length="10956179" type="audio/mpeg" />
+		      <pubDate>Thu, 23 Jul 2020 18:39:00 GMT</pubDate>
+		      <guid>https://www.nbinvestments.ca/content/bncd/en/accueil/podcasts/10-advices-to-solve-financial-problems.html</guid>
+		</item>
+	</channel>
+</rss>
