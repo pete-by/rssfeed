@@ -34,20 +34,21 @@
 		<itunes:subtitle><![CDATA[Joe Rogan's Weekly Podcast]]></itunes:subtitle>
 		<itunes:type>episodic</itunes:type>
 		<item>
-			<title>#1542 - Cameron Hanes</title>
-			<pubDate>Tue, 29 Sep 2020 19:00:00 +0000</pubDate>
-			<guid isPermaLink="false"><![CDATA[367bef73-5c89-448a-b294-af1ba6e4f587]]></guid>
-			<link><![CDATA[http://traffic.libsyn.com/joeroganexp/p1542.mp3]]></link>
-			<itunes:image href="http://static.libsyn.com/p/assets/9/b/6/7/9b67412360fec88f/JRE1542.jpg" />
-			<description><![CDATA[Master bowhunter and elite athlete Cameron Hanes has successfully taken down some of the toughest game in the roughest environments nature has to offer, all in pursuit of becoming “the ultimate predator.” He’s the author of Backcountry Bowhunting: a Guide to the Wildside, and the host of the podcast Keep Hammering with Cameron Hanes.]]></description>
-			<content:encoded><![CDATA[Master bowhunter and elite athlete Cameron Hanes has successfully taken down some of the toughest game in the roughest environments nature has to offer, all in pursuit of becoming “the ultimate predator.” He’s the author of Backcountry Bowhunting: a Guide to the Wildside, and the host of the podcast Keep Hammering with Cameron Hanes.]]></content:encoded>
-			<enclosure url="https://www.bninvestissements.ca/content/dam/bni/podcasts/podcast-bni-fr-bref-episode-0002.mp3" length="10956179" type="audio/mpeg" />
-			<itunes:duration>02:59:18</itunes:duration>
-			<itunes:explicit>no</itunes:explicit>
-			<itunes:keywords>podcast,joe,party,experience,cameron,keep,freak,rogan,hanes,deathsquad,jre,hammering,1542</itunes:keywords>
-			<itunes:subtitle><![CDATA[Master bowhunter and elite athlete Cameron Hanes has successfully taken down some of the toughest game in the roughest environments nature has to offer, all in pursuit of becoming “the ultimate predator.” He’s the author of Backcountry...]]></itunes:subtitle>
-			<itunes:episode>1542</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
+		      <title>10 Advices to Solve Financial Problems</title>
+		      <googleplay:author>Julie Rocher</googleplay:author>
+		      <itunes:author>Julie Rocher</itunes:author>
+		      <googleplay:guid>https://www.nbinvestments.ca/content/bncd/en/accueil/podcasts/10-advices-to-solve-financial-problems.html</googleplay:guid>
+		      <googleplay:category>Savings &amp; investment,Investments</googleplay:category>
+		      <googleplay:description>10 Advices to Solve Financial Problems</googleplay:description>
+		      <itunes:summary>10 Advices to Solve Financial Problems</itunes:summary>
+		      <googleplay:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_2.png" />
+		      <itunes:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_2.png" />
+		      <description>10 Advices to Solve Financial Problems</description>
+		      <content:encoded>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+		&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</content:encoded>
+		      <enclosure url="https://www.bninvestissements.ca/content/dam/bni/podcasts/podcast-bni-fr-bref-episode-0002.mp3" length="10956179" type="audio/mpeg" />
+		      <pubDate>Thu, 23 Jul 2020 18:39:00 GMT</pubDate>
+		      <guid>https://www.nbinvestments.ca/content/bncd/en/accueil/podcasts/10-advices-to-solve-financial-problems.html</guid>
 		</item>
 	</channel>
 </rss>
