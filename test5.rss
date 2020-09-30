@@ -29,8 +29,8 @@
 			<itunes:name>Peter</itunes:name>
 			<itunes:email>peter.melnikov@gmail.com (Peter)</itunes:email>
 	        </itunes:owner>
-		<description>Talks about investments</description>
-		<itunes:subtitle>Podcast subtitle</itunes:subtitle>
+		<description><![CDATA[Description...]]></description>
+		<itunes:subtitle><![CDATA[Subtitle...]]></itunes:subtitle>
 		<item>
 		      <title>10 Advices to Solve Financial Problems</title>
 		      <googleplay:author>Julie Rocher</googleplay:author>
