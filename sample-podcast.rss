@@ -19,7 +19,7 @@ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
     <itunes:author>BNI</itunes:author>
     <itunes:owner>
          <itunes:name>Peter</itunes:name>
-         <itunes:email>peter.melnikov@gmail.com (Peter)</itunes:email>
+         <itunes:email>peter.melnikov@gmail.com</itunes:email>
     </itunes:owner>
     <googleplay:category>Investments</googleplay:category>
     <itunes:category text="Business">
