@@ -6,6 +6,8 @@
 		<atom:link href="http://joeroganexp.joerogan.libsynpro.com/rss" rel="self" type="application/rss+xml"/>
 		<title>Investment</title>
 		<pubDate>Tue, 29 Sep 2020 19:00:00 +0000</pubDate>
+		<lastBuildDate>Tue, 29 Sep 2020 19:05:50 +0000</lastBuildDate>
+		<generator>Libsyn WebEngine 2.0</generator>
 		<link>https://www.joerogan.com</link>
 		<language>en</language>
 		<copyright>BNI</copyright>
@@ -19,14 +21,14 @@
 		<itunes:author>Peter</itunes:author>
 		<itunes:keywords>comedian,joe,monkey,redban,rogan,talking,ufc</itunes:keywords>
 		<itunes:category text="Business">
-        <itunes:category text="Investing"/>
-    </itunes:category>
+                	<itunes:category text="Investing"/>
+                </itunes:category>
 		<itunes:image href="http://static.libsyn.com/p/assets/7/1/f/3/71f3014e14ef2722/JREiTunesImage2.jpg" />
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:owner>
-         <itunes:name>Peter</itunes:name>
-         <itunes:email>peter.melnikov@gmail.com (Peter)</itunes:email>
-    </itunes:owner>
+			<itunes:name>Peter</itunes:name>
+			<itunes:email>peter.melnikov@gmail.com (Peter)</itunes:email>
+	        </itunes:owner>
 		<description>Talks about investments</description>
 		<itunes:subtitle>Podcast subtitle</itunes:subtitle>
 		<item>
