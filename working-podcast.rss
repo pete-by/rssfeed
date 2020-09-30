@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="http://joeroganexp.joerogan.libsynpro.com/rss" rel="self" type="application/rss+xml"/>
+		<title>The Joe Rogan Experience</title>
+		<pubDate>Tue, 29 Sep 2020 19:00:00 +0000</pubDate>
+		<lastBuildDate>Tue, 29 Sep 2020 19:05:50 +0000</lastBuildDate>
+		<generator>Libsyn WebEngine 2.0</generator>
+		<link>https://www.joerogan.com</link>
+		<language>en</language>
+		<copyright><![CDATA[Copyright © Talking Monkey Productions ]]></copyright>
+		<docs>https://www.joerogan.com</docs>
+		<managingEditor>joe@joerogan.net (joe@joerogan.net)</managingEditor>
+		<itunes:summary><![CDATA[The podcast of Comedian Joe Rogan..]]></itunes:summary>
+		<image>
+			<url>http://static.libsyn.com/p/assets/7/1/f/3/71f3014e14ef2722/JREiTunesImage2.jpg</url>
+			<title>The Joe Rogan Experience</title>
+			<link><![CDATA[https://www.joerogan.com]]></link>
+		</image>
+		<itunes:author>Joe Rogan</itunes:author>
+		<itunes:keywords>comedian,joe,monkey,redban,rogan,talking,ufc</itunes:keywords>
+		<itunes:category text="Comedy"/>
+		<itunes:category text="Society &amp; Culture"/>
+		<itunes:category text="Technology">
+			<itunes:category text="Podcasting"/>
+		</itunes:category>
+		<itunes:image href="http://static.libsyn.com/p/assets/7/1/f/3/71f3014e14ef2722/JREiTunesImage2.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Joe Rogan]]></itunes:name>
+			<itunes:email>joe@joerogan.net</itunes:email>
+		</itunes:owner>
+		<description><![CDATA[The podcast of Comedian Joe Rogan..]]></description>
+		<itunes:subtitle><![CDATA[Joe Rogan's Weekly Podcast]]></itunes:subtitle>
+		<itunes:type>episodic</itunes:type>
+		<item>
+			<title>#1542 - Cameron Hanes</title>
+			<pubDate>Tue, 29 Sep 2020 19:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[367bef73-5c89-448a-b294-af1ba6e4f587]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/joeroganexp/p1542.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/9/b/6/7/9b67412360fec88f/JRE1542.jpg" />
+			<description><![CDATA[Master bowhunter and elite athlete Cameron Hanes has successfully taken down some of the toughest game in the roughest environments nature has to offer, all in pursuit of becoming “the ultimate predator.” He’s the author of Backcountry Bowhunting: a Guide to the Wildside, and the host of the podcast Keep Hammering with Cameron Hanes.]]></description>
+			<content:encoded><![CDATA[Master bowhunter and elite athlete Cameron Hanes has successfully taken down some of the toughest game in the roughest environments nature has to offer, all in pursuit of becoming “the ultimate predator.” He’s the author of Backcountry Bowhunting: a Guide to the Wildside, and the host of the podcast Keep Hammering with Cameron Hanes.]]></content:encoded>
+			<enclosure length="258566463" type="audio/mpeg" url="http://traffic.libsyn.com/joeroganexp/p1542.mp3?dest-id=19997" />
+			<itunes:duration>02:59:18</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>podcast,joe,party,experience,cameron,keep,freak,rogan,hanes,deathsquad,jre,hammering,1542</itunes:keywords>
+			<itunes:subtitle><![CDATA[Master bowhunter and elite athlete Cameron Hanes has successfully taken down some of the toughest game in the roughest environments nature has to offer, all in pursuit of becoming “the ultimate predator.” He’s the author of Backcountry...]]></itunes:subtitle>
+			<itunes:episode>1542</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
