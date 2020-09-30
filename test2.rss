@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="http://joeroganexp.joerogan.libsynpro.com/rss" rel="self" type="application/rss+xml"/>
+		<title>The Joe Rogan Experience</title>
+		<pubDate>Tue, 29 Sep 2020 19:00:00 +0000</pubDate>
+		<lastBuildDate>Tue, 29 Sep 2020 19:05:50 +0000</lastBuildDate>
+		<generator>Libsyn WebEngine 2.0</generator>
+		<link>https://www.joerogan.com</link>
+		<language>en</language>
+		<copyright><![CDATA[Copyright © Talking Monkey Productions ]]></copyright>
+		<docs>https://www.joerogan.com</docs>
+		<managingEditor>joe@joerogan.net (joe@joerogan.net)</managingEditor>
+		<itunes:summary><![CDATA[The podcast of Comedian Joe Rogan..]]></itunes:summary>
+		<image>
+			<url>http://static.libsyn.com/p/assets/7/1/f/3/71f3014e14ef2722/JREiTunesImage2.jpg</url>
+			<title>The Joe Rogan Experience</title>
+			<link><![CDATA[https://www.joerogan.com]]></link>
+		</image>
+		<itunes:author>Joe Rogan</itunes:author>
+		<itunes:keywords>comedian,joe,monkey,redban,rogan,talking,ufc</itunes:keywords>
+		<itunes:category text="Comedy"/>
+		<itunes:category text="Society &amp; Culture"/>
+		<itunes:category text="Technology">
+			<itunes:category text="Podcasting"/>
+		</itunes:category>
+		<itunes:image href="http://static.libsyn.com/p/assets/7/1/f/3/71f3014e14ef2722/JREiTunesImage2.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Joe Rogan]]></itunes:name>
+			<itunes:email>joe@joerogan.net</itunes:email>
+		</itunes:owner>
+		<description><![CDATA[The podcast of Comedian Joe Rogan..]]></description>
+		<itunes:subtitle><![CDATA[Joe Rogan's Weekly Podcast]]></itunes:subtitle>
+		<itunes:type>episodic</itunes:type>
+		<item>
+			<title>10 Advices to Solve Financial Problems</title>
+			<pubDate>Thu, 23 Jul 2020 18:39:00 GMT</pubDate>
+			<guid isPermaLink="false"><![CDATA[367bef73-5c89-448a-b294-af1ba6e4f587]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/joeroganexp/p1542.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/9/b/6/7/9b67412360fec88f/JRE1542.jpg" />
+      <itunes:summary>10 Advices to Solve Financial Problems</itunes:summary>
+			<description>10 Advices to Solve Financial Problems</description>
+			<content:encoded>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</content:encoded>
+			<enclosure url="https://www.bninvestissements.ca/content/dam/bni/podcasts/podcast-bni-fr-bref-episode-0002.mp3" length="10956179" type="audio/mpeg" />
+			<itunes:explicit>no</itunes:explicit>
+		</item>
+	</channel>
+</rss>
