@@ -1,30 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<channel>
-		<atom:link href="https://raw.githack.com/pete-by/rssfeed/master/sample-podcast.rss" rel="self" type="application/rss+xml" />
-		<link>https://raw.githack.com/pete-by/rssfeed/master/sample-podcast.html</link>
-                <title>Investments</title>
-                <description>Talks about investments</description>
-                <language>en</language>
-                <copyright>BNC</copyright>
-                <pubDate>Wed, 23 Sep 2020 19:37:28 GMT</pubDate>
-                <managingEditor>peter.melnikov@gmail.com (Peter)</managingEditor>
-		<itunes:summary>Talks about investments</itunes:summary>
+		<atom:link href="http://joeroganexp.joerogan.libsynpro.com/rss" rel="self" type="application/rss+xml"/>
+		<title>The Joe Rogan Experience</title>
+		<pubDate>Tue, 29 Sep 2020 19:00:00 +0000</pubDate>
+		<lastBuildDate>Tue, 29 Sep 2020 19:05:50 +0000</lastBuildDate>
+		<generator>Libsyn WebEngine 2.0</generator>
+		<link>https://www.joerogan.com</link>
+		<language>en</language>
+		<copyright><![CDATA[Copyright © Talking Monkey Productions ]]></copyright>
+		<docs>https://www.joerogan.com</docs>
+		<managingEditor>joe@joerogan.net (joe@joerogan.net)</managingEditor>
+		<itunes:summary><![CDATA[The podcast of Comedian Joe Rogan..]]></itunes:summary>
 		<image>
 			<url>http://static.libsyn.com/p/assets/7/1/f/3/71f3014e14ef2722/JREiTunesImage2.jpg</url>
 			<title>The Joe Rogan Experience</title>
 			<link><![CDATA[https://www.joerogan.com]]></link>
 		</image>
-		 <itunes:author>BNI</itunes:author>
-                <itunes:owner>
-			<itunes:name>Peter</itunes:name>
-			<itunes:email>peter.melnikov@gmail.com (Peter)</itunes:email>
-    		</itunes:owner>
-    		<itunes:category text="Business">
-			<itunes:category text="Investing"/>
+		<itunes:author>Joe Rogan</itunes:author>
+		<itunes:keywords>comedian,joe,monkey,redban,rogan,talking,ufc</itunes:keywords>
+		<itunes:category text="Comedy"/>
+		<itunes:category text="Society &amp; Culture"/>
+		<itunes:category text="Technology">
+			<itunes:category text="Podcasting"/>
 		</itunes:category>
-    		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://static.libsyn.com/p/assets/7/1/f/3/71f3014e14ef2722/JREiTunesImage2.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Joe Rogan]]></itunes:name>
+			<itunes:email>joe@joerogan.net</itunes:email>
+		</itunes:owner>
+		<description><![CDATA[The podcast of Comedian Joe Rogan..]]></description>
 		<itunes:subtitle><![CDATA[Joe Rogan's Weekly Podcast]]></itunes:subtitle>
 		<itunes:type>episodic</itunes:type>
 		<item>
