@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
+  <channel>
+    <title>Investments</title>
+    <description>Talks about investments</description>
+    <language>en</language>
+    <copyright>BNC</copyright>
+    <pubDate>Wed, 23 Sep 2020 19:37:28 GMT</pubDate>
+    <managingEditor>yarblek@gmail.com</managingEditor>
+    <category domain="schema-tags:page-category/mortgage">Mortgage</category>
+    <category domain="schema-tags:page-category/savings-and-investment">Savings &amp; investment</category>
+    <category domain="schema-tags:page-category/investments">Investments</category>
+    <googleplay:author>BNI</googleplay:author>
+    <itunes:author>BNI</itunes:author>
+    <itunes:owner>
+         <itunes:name>Philippe</itunes:name>
+         <itunes:email>yarblek@gmail.com (Philippe)</itunes:email>
+    </itunes:owner>
+    <googleplay:category>Investments</googleplay:category>
+    <itunes:category text="Business">
+        <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <googleplay:email>yarblek@gmail.com</googleplay:email>
+    <googleplay:description>Talks about investments</googleplay:description>
+    <itunes:summary>Talks about investments</itunes:summary>
+    <googleplay:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_4.png" />
+    <itunes:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_4.png" />
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://yarblekdemobucket.s3.us-east-2.amazonaws.com/sample-bni-podcast.rss" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10 Advices to Solve Financial Problems</title>
+      <googleplay:author>Julie Rocher</googleplay:author>
+      <itunes:author>Julie Rocher</itunes:author>
+      <googleplay:guid>https://www.nbinvestments.ca/content/bncd/en/accueil/podcasts/10-advices-to-solve-financial-problems.html</googleplay:guid>
+      <googleplay:category>Savings &amp; investment,Investments</googleplay:category>
+      <googleplay:description>10 Advices to Solve Financial Problems</googleplay:description>
+      <itunes:summary>10 Advices to Solve Financial Problems</itunes:summary>
+      <googleplay:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_2.png" />
+      <itunes:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_2.png" />
+      <description>10 Advices to Solve Financial Problems</description>
+      <content:encoded>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://www.bninvestissements.ca/content/dam/bni/podcasts/podcast-bni-fr-bref-episode-0002.mp3" length="10956179" type="audio/mpeg" />
+      <pubDate>Thu, 23 Jul 2020 18:39:00 GMT</pubDate>
+      <guid>https://www.nbinvestments.ca/content/bncd/en/accueil/podcasts/10-advices-to-solve-financial-problems.html</guid>
+    </item>
+    <item>
+      <title>How to get max out of your mortgage</title>
+      <googleplay:author>Patrick Adams</googleplay:author>
+      <itunes:author>Patrick Adams</itunes:author>
+      <googleplay:guid>https://www.nbinvestments.ca/content/bncd/en/accueil/podcasts/get-max-out-of-your-mortgage.html</googleplay:guid>
+      <googleplay:category>Savings &amp; investment,Investments,Mortgage</googleplay:category>
+      <googleplay:description>How to get max out of your mortgage</googleplay:description>
+      <itunes:summary>How to get max out of your mortgage</itunes:summary>
+      <googleplay:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_18.png" />
+      <itunes:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_18.png" />
+      <description>How to get max out of your mortgage</description>
+      <content:encoded>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://www.bninvestissements.ca/content/dam/bni/podcasts/podcast-bni-fr-bref-episode-0002.mp3" length="10956179" type="audio/mpeg" />
+      <pubDate>Sat, 25 Jul 2020 18:39:00 GMT</pubDate>
+      <guid>https://www.nbinvestments.ca/content/bncd/en/accueil/podcasts/get-max-out-of-your-mortgage.html</guid>
+    </item>
+    <item>
+      <title>How to create  your investment plan</title>
+      <googleplay:author>Patrick Adams</googleplay:author>
+      <itunes:author>Patrick Adams</itunes:author>
+      <googleplay:guid>https://www.nbinvestments.ca/content/bncd/en/accueil/podcasts/how-to-create-your-investment-plan.html</googleplay:guid>
+      <googleplay:category>Savings &amp; investment,Investments</googleplay:category>
+      <googleplay:description>How to create  your investment plan</googleplay:description>
+      <itunes:summary>How to create  your investment plan</itunes:summary>
+      <googleplay:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_20.png" />
+      <itunes:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_20.png" />
+      <description>How to create  your investment plan</description>
+      <content:encoded>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</content:encoded>
+      <enclosure url="https://www.bninvestissements.ca/content/dam/bni/podcasts/podcast-bni-fr-bref-episode-0002.mp3" length="10956179" type="audio/mpeg" />
+      <pubDate>Thu, 23 Jul 2020 18:24:00 GMT</pubDate>
+      <guid>https://www.nbinvestments.ca/content/bncd/en/accueil/podcasts/how-to-create-your-investment-plan.html</guid>
+    </item>
+  </channel>
+</rss>
