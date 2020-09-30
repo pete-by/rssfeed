@@ -10,7 +10,7 @@
 		<generator>Libsyn WebEngine 2.0</generator>
 		<link>https://www.joerogan.com</link>
 		<language>en</language>
-		<copyright>BNI</copyright>
+		<copyright><![CDATA[Copyright © Talking Monkey Productions ]]></copyright>
 		<managingEditor>peter.melnikov@gmail.com (Peter)</managingEditor>
 		<itunes:summary>Talks about investments</itunes:summary>
 		<image>
