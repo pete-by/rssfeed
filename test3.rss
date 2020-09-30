@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 	<channel>
 		<atom:link href="http://joeroganexp.joerogan.libsynpro.com/rss" rel="self" type="application/rss+xml"/>
 		<title>The Joe Rogan Experience</title>
@@ -35,10 +37,10 @@
 		<itunes:type>episodic</itunes:type>
 		<item>
 			<title>10 Advices to Solve Financial Problems</title>
-      <googleplay:author>Julie Rocher</googleplay:author>
-      <itunes:author>Julie Rocher</itunes:author>
-      <googleplay:category>Savings &amp; investment,Investments</googleplay:category>
-      <googleplay:description>10 Advices to Solve Financial Problems</googleplay:description>
+		      <googleplay:author>Julie Rocher</googleplay:author>
+		      <itunes:author>Julie Rocher</itunes:author>
+		      <googleplay:category>Savings &amp; investment,Investments</googleplay:category>
+		      <googleplay:description>10 Advices to Solve Financial Problems</googleplay:description>
 			<pubDate>Thu, 23 Jul 2020 18:39:00 GMT</pubDate>
 			<guid isPermaLink="false"><![CDATA[367bef73-5c89-448a-b294-af1ba6e4f587]]></guid>
 			<link><![CDATA[http://traffic.libsyn.com/joeroganexp/p1542.mp3]]></link>
