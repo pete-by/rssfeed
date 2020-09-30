@@ -9,26 +9,22 @@
                 <copyright>BNC</copyright>
                 <pubDate>Wed, 23 Sep 2020 19:37:28 GMT</pubDate>
                 <managingEditor>peter.melnikov@gmail.com (Peter)</managingEditor>
-		<itunes:summary><![CDATA[The podcast of Comedian Joe Rogan..]]></itunes:summary>
+		<itunes:summary>Talks about investments</itunes:summary>
 		<image>
 			<url>http://static.libsyn.com/p/assets/7/1/f/3/71f3014e14ef2722/JREiTunesImage2.jpg</url>
 			<title>The Joe Rogan Experience</title>
 			<link><![CDATA[https://www.joerogan.com]]></link>
 		</image>
-		<itunes:author>Joe Rogan</itunes:author>
-		<itunes:keywords>comedian,joe,monkey,redban,rogan,talking,ufc</itunes:keywords>
-		<itunes:category text="Comedy"/>
-		<itunes:category text="Society &amp; Culture"/>
-		<itunes:category text="Technology">
-			<itunes:category text="Podcasting"/>
+		 <itunes:author>BNI</itunes:author>
+                <itunes:owner>
+			<itunes:name>Peter</itunes:name>
+			<itunes:email>peter.melnikov@gmail.com (Peter)</itunes:email>
+    		</itunes:owner>
+    		<itunes:category text="Business">
+			<itunes:category text="Investing"/>
 		</itunes:category>
+    		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://static.libsyn.com/p/assets/7/1/f/3/71f3014e14ef2722/JREiTunesImage2.jpg" />
-		<itunes:explicit>yes</itunes:explicit>
-		<itunes:owner>
-			<itunes:name><![CDATA[Joe Rogan]]></itunes:name>
-			<itunes:email>joe@joerogan.net</itunes:email>
-		</itunes:owner>
-		<description><![CDATA[The podcast of Comedian Joe Rogan..]]></description>
 		<itunes:subtitle><![CDATA[Joe Rogan's Weekly Podcast]]></itunes:subtitle>
 		<itunes:type>episodic</itunes:type>
 		<item>
