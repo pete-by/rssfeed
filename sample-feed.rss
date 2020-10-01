@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Investments</title>
+    <link>https://www.nbinvestments.ca/expert-insights/balados/stocks-vs-bonds.html</link>
+    <language>en</language>
+    <copyright>BNC</copyright>
+    <pubDate>Thu, 01 Oct 2020 18:09:57 GMT</pubDate>
+    <managingEditor>editeur@bnc.ca (BNI)</managingEditor>
+    <category domain="schema-tags:page-category/mortgage">Mortgage</category>
+    <category domain="schema-tags:page-category/savings-and-investment">Savings &amp; investment</category>
+    <category domain="schema-tags:page-category/investments">Investments</category>
+    <description><![CDATA[Talks about investments]]></description>
+    <content:encoded><![CDATA[Talks about investments]]></content:encoded>
+    <googleplay:email>editeur@bnc.ca</googleplay:email>
+    <googleplay:owner>editeur@bnc.ca</googleplay:owner>
+    <googleplay:author>BNI</googleplay:author>
+    <googleplay:category>investment</googleplay:category>
+    <googleplay:description><![CDATA[Talks about investments]]></googleplay:description>
+    <googleplay:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_4.png" />
+    <googleplay:explicit>no</googleplay:explicit>
+    <itunes:author>BNI</itunes:author>
+    <itunes:owner>
+      <itunes:name>BNI</itunes:name>
+      <itunes:email>editeur@bnc.ca</itunes:email>
+    </itunes:owner>
+    <itunes:category text="investment" />
+    <itunes:keywords>podcast,feed,investment</itunes:keywords>
+    <itunes:summary><![CDATA[Talks about investments]]></itunes:summary>
+    <itunes:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_4.png" />
+    <itunes:explicit>no</itunes:explicit>
+    <link xmlns="atom" href="sample-feed.rss" rel="self" type="application/rss+xml" />
+    <image>
+      <title>Investments</title>
+      <url>https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_4.png</url>
+      <link>https://www.nbinvestments.ca/expert-insights/balados/stocks-vs-bonds.html</link>
+    </image>
+    <item>
+      <title>10 Advices to Solve Financial Problems</title>
+      <link>https://www.nbinvestments.ca/content/bncd/en/accueil/podcasts/10-advices-to-solve-financial-problems.html</link>
+      <description><![CDATA[10 Advices to Solve Financial Problems]]></description>
+      <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>]]></content:encoded>
+      <googleplay:category>Savings &amp; investment,Investments</googleplay:category>
+      <googleplay:author>Julie Rocher</googleplay:author>
+      <googleplay:description>10 Advices to Solve Financial Problems</googleplay:description>
+      <googleplay:image href="/content/dam/fragment/images/10-conseils-pour-resoudre-vos problèmes financiers-1020x680.png" />
+      <itunes:author>Julie Rocher</itunes:author>
+      <itunes:summary><![CDATA[10 Advices to Solve Financial Problems]]></itunes:summary>
+      <itunes:image href="/content/dam/fragment/images/10-conseils-pour-resoudre-vos problèmes financiers-1020x680.png" />
+      <itunes:duration>390</itunes:duration>
+      <guid>/content/bni/en/accueil/invest/10-advices-to-solve-financial-problems</guid>
+      <pubDate>Thu, 23 Jul 2020 18:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to get max out of your mortgage</title>
+      <link>https://www.bninvestissements.ca/perspectives-d-experts/balados/investissement-responsable-et-esg.html</link>
+      <description><![CDATA[How to get max out of your mortgage]]></description>
+      <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>]]></content:encoded>
+      <googleplay:category>Savings &amp; investment,Investments,Mortgage</googleplay:category>
+      <googleplay:author>Patrick Adams</googleplay:author>
+      <googleplay:description>How to get max out of your mortgage</googleplay:description>
+      <googleplay:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_2.png" />
+      <itunes:author>Patrick Adams</itunes:author>
+      <itunes:summary><![CDATA[How to get max out of your mortgage]]></itunes:summary>
+      <itunes:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_2.png" />
+      <itunes:duration>360</itunes:duration>
+      <guid>/content/bni/en/accueil/invest/get-max-out-of-your-mortgage</guid>
+      <enclosure url="/content/dam/podcast-audio/Lorem_ipsum.ogg.mp3" length="7122528" type="audio/mpeg" />
+      <pubDate>Sat, 25 Jul 2020 18:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to create  your investment plan</title>
+      <link>https://www.bninvestissements.ca/perspectives-d-experts/balados/actions-et-obligations.html</link>
+      <description><![CDATA[How to create  your investment plan]]></description>
+      <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>]]></content:encoded>
+      <googleplay:category>Savings &amp; investment,Investments</googleplay:category>
+      <googleplay:author>Julie Rocher</googleplay:author>
+      <googleplay:description>How to create  your investment plan</googleplay:description>
+      <googleplay:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_20.png" />
+      <itunes:author>Patrick Adams</itunes:author>
+      <itunes:summary><![CDATA[How to create  your investment plan]]></itunes:summary>
+      <itunes:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_20.png" />
+      <itunes:duration>300</itunes:duration>
+      <guid>/content/bni/en/accueil/invest/how-to-create-your-investment-plan</guid>
+      <pubDate>Thu, 23 Jul 2020 18:24:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
