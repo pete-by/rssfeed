@@ -50,6 +50,7 @@
       <itunes:image href="/content/dam/fragment/images/10-conseils-pour-resoudre-vos problèmes financiers-1020x680.png" />
       <itunes:duration>390</itunes:duration>
       <guid>/content/bni/en/accueil/invest/10-advices-to-solve-financial-problems</guid>
+      <enclosure url="/content/dam/podcast-audio/Lorem_ipsum.ogg.mp3" length="7122528" type="audio/mpeg" />
       <pubDate>Thu, 23 Jul 2020 18:39:00 GMT</pubDate>
     </item>
     <item>
@@ -85,6 +86,7 @@
       <itunes:image href="https://www.nbinvestments.ca/content/dam/bni/img/img/img_1020x620_20.png" />
       <itunes:duration>300</itunes:duration>
       <guid>/content/bni/en/accueil/invest/how-to-create-your-investment-plan</guid>
+      <enclosure url="/content/dam/podcast-audio/Lorem_ipsum.ogg.mp3" length="7122528" type="audio/mpeg" />
       <pubDate>Thu, 23 Jul 2020 18:24:00 GMT</pubDate>
     </item>
   </channel>
